@@ -9,7 +9,7 @@ namespace Enumercacoes_Composicoes.Entities
     {
         public DateTime Moment { get; set; }
         public OrderStatus OrderStatus { get; set; }
-        public List<OrderItem> Items { get; private set } = new List<OrderItem>();
+        public List<OrderItem> Items { get; private set; } = new List<OrderItem>();
         public Order()
         {
 
@@ -37,6 +37,19 @@ namespace Enumercacoes_Composicoes.Entities
                 sum += item.SubTotal();
             }
             return sum;
+        }
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            foreach (OrderItem item in Items)
+            {
+                sb.Append(item.Product.Name);
+                sb.Append(item.Product.Price);
+                sb.Append(item.Quantity);
+                sb.Append(item.SubTotal());
+
+            }
+            return sb.ToString();
         }
     }
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Enumercacoes_Composicoes/1.0.0": {
+        "runtime": {
+          "Enumercacoes_Composicoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enumercacoes_Composicoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

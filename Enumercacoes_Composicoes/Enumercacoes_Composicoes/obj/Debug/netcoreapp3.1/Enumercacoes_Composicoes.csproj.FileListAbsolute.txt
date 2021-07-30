@@ -1,0 +1,13 @@
+C:\Users\luizr\Documents\GitHub\Challenges_CSharp_Course\Enumercacoes_Composicoes\Enumercacoes_Composicoes\obj\Debug\netcoreapp3.1\Enumercacoes_Composicoes.csproj.AssemblyReference.cache
+C:\Users\luizr\Documents\GitHub\Challenges_CSharp_Course\Enumercacoes_Composicoes\Enumercacoes_Composicoes\obj\Debug\netcoreapp3.1\Enumercacoes_Composicoes.AssemblyInfoInputs.cache
+C:\Users\luizr\Documents\GitHub\Challenges_CSharp_Course\Enumercacoes_Composicoes\Enumercacoes_Composicoes\obj\Debug\netcoreapp3.1\Enumercacoes_Composicoes.AssemblyInfo.cs
+C:\Users\luizr\Documents\GitHub\Challenges_CSharp_Course\Enumercacoes_Composicoes\Enumercacoes_Composicoes\obj\Debug\netcoreapp3.1\Enumercacoes_Composicoes.csproj.CoreCompileInputs.cache
+C:\Users\luizr\Documents\GitHub\Challenges_CSharp_Course\Enumercacoes_Composicoes\Enumercacoes_Composicoes\bin\Debug\netcoreapp3.1\Enumercacoes_Composicoes.exe
+C:\Users\luizr\Documents\GitHub\Challenges_CSharp_Course\Enumercacoes_Composicoes\Enumercacoes_Composicoes\bin\Debug\netcoreapp3.1\Enumercacoes_Composicoes.deps.json
+C:\Users\luizr\Documents\GitHub\Challenges_CSharp_Course\Enumercacoes_Composicoes\Enumercacoes_Composicoes\bin\Debug\netcoreapp3.1\Enumercacoes_Composicoes.runtimeconfig.json
+C:\Users\luizr\Documents\GitHub\Challenges_CSharp_Course\Enumercacoes_Composicoes\Enumercacoes_Composicoes\bin\Debug\netcoreapp3.1\Enumercacoes_Composicoes.runtimeconfig.dev.json
+C:\Users\luizr\Documents\GitHub\Challenges_CSharp_Course\Enumercacoes_Composicoes\Enumercacoes_Composicoes\bin\Debug\netcoreapp3.1\Enumercacoes_Composicoes.dll
+C:\Users\luizr\Documents\GitHub\Challenges_CSharp_Course\Enumercacoes_Composicoes\Enumercacoes_Composicoes\bin\Debug\netcoreapp3.1\Enumercacoes_Composicoes.pdb
+C:\Users\luizr\Documents\GitHub\Challenges_CSharp_Course\Enumercacoes_Composicoes\Enumercacoes_Composicoes\obj\Debug\netcoreapp3.1\Enumercacoes_Composicoes.dll
+C:\Users\luizr\Documents\GitHub\Challenges_CSharp_Course\Enumercacoes_Composicoes\Enumercacoes_Composicoes\obj\Debug\netcoreapp3.1\Enumercacoes_Composicoes.pdb
+C:\Users\luizr\Documents\GitHub\Challenges_CSharp_Course\Enumercacoes_Composicoes\Enumercacoes_Composicoes\obj\Debug\netcoreapp3.1\Enumercacoes_Composicoes.genruntimeconfig.cache
